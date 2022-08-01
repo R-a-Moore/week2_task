@@ -1,6 +1,6 @@
 # Explaining Github
 
-![github / localhost, diagram]()
+![git to localhost diagram](https://user-images.githubusercontent.com/47668244/182137295-2df6d969-24ac-435a-9a2f-03423c07094f.png)
 
 Github is like a constant communication relay, which is occuring between your local host (your personal machine that you're working on), and your online repository (which is stored on the cloud).
 
