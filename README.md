@@ -14,6 +14,8 @@ Github is like a constant communication relay, which is occuring between your lo
 
 - `cd "file path"` navigates to specific directory
 
+-  `mkdir "file name"` creates a new directory as you've named it.
+
 - `rm -rf "file name"` deletes file
 
 - `ls` lists files present in current directory
