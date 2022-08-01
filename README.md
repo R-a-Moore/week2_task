@@ -4,6 +4,8 @@
 
 Github is like a constant communication relay, which is occuring between your local host (your personal machine that you're working on), and your online repository (which is stored on the cloud).
 
+#NOTE THAT WHENEVER USING GIT BASH, PYCHARM OR ANY OTHER TOOLS, YOU WILL NEED TO OPEN IT AS ADMINISTRATOR TO ACCESS FULL PERMISSIONS#
+
 ## Navigating in Commandline
 
 - `cd ` navigates to base directory
